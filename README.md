@@ -6,11 +6,11 @@ Featured Projects
 1. [SmartHome App](https://github.com/moutajDev/smarthome)
 This repository contains a domain model for a smart home system built using Domain-Driven Design (DDD) and Onion Architecture. The project focuses on separating business logic from infrastructure concerns, ensuring clean, testable, and maintainable code.
 
-2. Frontend small Projects:
-[Recipe Page](https://github.com/moutajDev/RecipePage)
+Frontend small Projects:
+2. [Recipe Page](https://github.com/moutajDev/RecipePage)
 A responsive recipe page built with HTML, CSS, and JavaScript, showcasing clean design and dynamic content updates.
 
-[News Letter](https://github.com/moutajDev/newsLetterSignUp)
+3. [News Letter](https://github.com/moutajDev/newsLetterSignUp)
 A newsletter sign-up form with client-side validation and interactive feedback, built with HTML, CSS, and JavaScript.
 
 Languages: Java, JavaScript, HTML, CSS, SQL
