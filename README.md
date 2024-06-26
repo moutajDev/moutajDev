@@ -1,6 +1,6 @@
 ## Welcome to MoutajDev's GitHub!
 
-Hello! 👋 I'm Moutaj, a passionate developer dedicated to creating innovative solutions and sharing knowledge with the community. Here you'll find a variety of projects that I've worked on, ranging from web development to data science and more.
+Hello! 👋 I'm João Mouta, a passionate developer dedicated to creating innovative solutions and sharing knowledge with the community. Here you'll find a variety of projects that I've worked on, ranging from web development to data science and more.
 
 ### 📂 Repositories
 
