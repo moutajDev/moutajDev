@@ -12,10 +12,12 @@ Hello! 👋 I'm João Mouta, a passionate developer dedicated to creating innova
 2. **Frontend Small Projects:**
    - **[Recipe Page](https://github.com/moutajDev/RecipePage)**: A responsive recipe page built with HTML, CSS, and JavaScript, showcasing clean design and dynamic content updates.
    - **[Newsletter Sign-Up](https://github.com/moutajDev/newsLetterSignUp)**: A newsletter sign-up form with client-side validation and interactive feedback, built with HTML, CSS, and JavaScript.
+3. **Python Projects:**
+4. - **[ETL Pipeline](https://github.com/moutajDev/python-etl-data)**: A small project from EdX course in Python. Simple ETL pipeline to extract data from a website and save it into a csv file.
 
 ### Languages, Frameworks, and Tools
 
-- **Languages**: Java, JavaScript, HTML, CSS, SQL
+- **Languages**: Java, Python, JavaScript, HTML, CSS, SQL
 - **Frameworks**: React, Node.js, SpringBoot
 - **Tools**: Git, Docker
 
